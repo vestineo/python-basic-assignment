@@ -1,2 +1,3 @@
-# python-basic-assignment
-Python basic variables and print practice 
+# Python Basic Assignment
+
+Python basic variables and print function practice. 
